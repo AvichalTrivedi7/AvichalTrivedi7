@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **Python, mySQL, R Programming**
 
-- ⚡ Fun fact **I'm a calisthenics athlete :)**
+- ❤️ I love teaching, public speaking and ofcourse coding <3
+
+- ⚡ Fun fact : **I'm a Calisthenics Athlete :)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
