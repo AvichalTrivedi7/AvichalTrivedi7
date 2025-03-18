@@ -1,0 +1,18 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour (change as needed)
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update README with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://avichaltrivedionlife.blogspot.com/feeds/posts/default?alt=rss"
