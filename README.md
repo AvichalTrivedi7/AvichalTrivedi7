@@ -14,6 +14,8 @@
 - [Differentiability : From Approaching and Unbroken to Beyond Change &lpar;Part-3&rpar;](https://avichaltrivedionlife.blogspot.com/2025/01/differentiability-from-approaching-and.html)
 - [Continuity : The Unbroken Thread &lpar;Part-2&rpar;](https://avichaltrivedionlife.blogspot.com/2025/01/continuity-unbroken-thread-part-2.html)
 - [Limits : Never Quite Reaching Absolute &lpar;Part-1&rpar;](https://avichaltrivedionlife.blogspot.com/2025/01/limits-never-quite-reaching-absolute.html)
+- [Staying Fit : A Lifestyle for a Fortified Mind](https://avichaltrivedionlife.blogspot.com/2024/10/staying-fit-lifestyle-for-fortified-mind.html)
+- [Exploring Real-World Applications of Matrices Beyond the Classroom](https://avichaltrivedionlife.blogspot.com/2024/10/exploring-real-world-applications-of.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
