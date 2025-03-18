@@ -16,4 +16,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://avichaltrivedionlife.blogspot.com/feeds/posts/default"
-          max_post_count: 3  # Change this number as per your requirement
+          max_post_count: 5  # Change for max visible latest posts
