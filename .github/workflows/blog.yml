@@ -15,4 +15,4 @@ jobs:
       - name: Update README with latest blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://avichaltrivedionlife.blogspot.com/feeds/posts/default?alt=rss"
+          feed_list: "https://avichaltrivedionlife.blogspot.com?alt=rss"
