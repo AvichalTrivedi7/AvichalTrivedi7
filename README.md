@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science and Artificial Intelligence**
 
-- 📝 I regularly write articles [here](https://avichaltrivedionlife.blogspot.com/)
+- 📝 I write articles [here](https://avichaltrivedionlife.blogspot.com/)
 
 - 💬 Ask me about **Python, mySQL, R Programming**
 
